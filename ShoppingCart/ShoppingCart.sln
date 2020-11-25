@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart", "ShoppingCart.csproj", "{0B057EB1-0A86-4057-8B50-D67DD920E50C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "..\API\API.csproj", "{68C9F468-80D1-43D7-95A4-60AFDEDFB32F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\Domain\Domain.csproj", "{C8AE5CBF-2299-4F2D-95E8-4D6417EECCC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B057EB1-0A86-4057-8B50-D67DD920E50C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B057EB1-0A86-4057-8B50-D67DD920E50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B057EB1-0A86-4057-8B50-D67DD920E50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B057EB1-0A86-4057-8B50-D67DD920E50C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68C9F468-80D1-43D7-95A4-60AFDEDFB32F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C9F468-80D1-43D7-95A4-60AFDEDFB32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C9F468-80D1-43D7-95A4-60AFDEDFB32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C9F468-80D1-43D7-95A4-60AFDEDFB32F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8AE5CBF-2299-4F2D-95E8-4D6417EECCC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8AE5CBF-2299-4F2D-95E8-4D6417EECCC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8AE5CBF-2299-4F2D-95E8-4D6417EECCC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8AE5CBF-2299-4F2D-95E8-4D6417EECCC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8D30F90-8A75-4233-B595-67790A4A9443}
+	EndGlobalSection
+EndGlobal

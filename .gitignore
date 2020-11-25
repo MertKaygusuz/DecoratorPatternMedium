@@ -1,0 +1,12 @@
+syntax: glob
+Domain/bin/*
+Domain/obj/*
+.vs/config/
+*/.suo
+.vs/*
+ShoppingCart/obj/*
+ShoppingCart/bin/*
+Domain/obj/*
+Domain/bin/*
+API/obj/*
+API/bin/*
